@@ -1,0 +1,32 @@
+
+.nav
+{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    background-color: antiquewhite;
+    padding: 20px 50px; 
+    box-sizing: border-box;
+    border-top:1px solid rgba(121, 121, 121, 0.3)
+}
+/*Border bar*/
+
+
+.nav__list 
+{   
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav__link
+{
+    position: relative;
+    color:rgba(121, 121, 121, 0.3);
+}
+
+.nav__notification
+{
+left:20px;
+bottom:20px;
+position: absolute;
+}

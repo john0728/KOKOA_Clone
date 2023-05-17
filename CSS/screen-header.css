@@ -1,0 +1,27 @@
+.screen-header 
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:var(--horizontal-space);
+    margin-bottom:15px;
+}
+
+.screen-header__title
+{
+    font-size:32px;
+    font-weight:600;
+}
+
+.screen-header__icons
+span {  
+ margin-left:25px;}
+
+
+ #friends-display-link
+ {text-align: center;
+display:block;
+background-color: aqua;
+
+
+padding: 15px 0px;}
