@@ -11,3 +11,12 @@ align-items: center;
 color: white;
 font-weight: 600;
 }
+
+.badge2{
+    background-color: tomato;
+    width:5px;
+    height: 5px;
+    display:inline-block; 
+    border-radius: 15px; 
+    margin-bottom: 10px
+    }

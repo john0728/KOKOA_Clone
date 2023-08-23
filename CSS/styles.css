@@ -4,16 +4,20 @@
 
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
-
-@import "welcome-header.css";
-@import "components/screen-header.css";
-
-@import "screen/login.css";
-@import "screen/friends.css";
-
-
 @import "components/user-component.css";
 @import "components/badge.css";
+@import "components/icon-row.css";
+@import "components/screen-header.css";
+@import "components/alt-screen-header.css";
+
+/* Screen */
+@import "screen/login.css";
+@import "screen/friends.css";
+@import "screen/find.css";
+@import "welcome-header.css";
+@import "screen/more.css";
+@import "screen/settings.css";
+@import "screen/chat.css";
 
 body { 
      
